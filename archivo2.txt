@@ -1,1 +1,2 @@
 Archivo 2 de prueba
+Vamos a cambiar este archivo para explicar ccomo deshacer cambios
